@@ -10,4 +10,7 @@ Smooth Scrolling: Navigation links enable smooth scrolling to different sections
 Bootstrap Integration: Utilizes Bootstrap framework for responsive layout and styling.
 Card Components: Presents information about different locations using Bootstrap card components.
 
-🔗 Check out the site : 
+🔗 Check out the site : https://octanet-may-task-1.vercel.app/
+
+# Contributing 🤝
+Contributions are welcome! Feel free to open issues or pull requests for any improvements or additional features.
