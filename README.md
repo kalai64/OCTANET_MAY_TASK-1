@@ -9,3 +9,5 @@ Responsive Design: Ensures optimal viewing experience across various devices.
 Smooth Scrolling: Navigation links enable smooth scrolling to different sections of the page.
 Bootstrap Integration: Utilizes Bootstrap framework for responsive layout and styling.
 Card Components: Presents information about different locations using Bootstrap card components.
+
+🔗 Check out the site : 
